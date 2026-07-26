@@ -46,7 +46,7 @@ Set your media player to play "enm" language tracks by default to automatically 
 | **Full Subtitles (Honorifics)** | English  | enm           | ASS    | Yes     | No     |
 
 Spot an issue, want to chat, or want to check out the project's progress? Join our [Discord server][discord]!
-We only support [mpv][]! Please try a recent mpv build if you run into any playback issues.
+We only support [mpv][]! Please try a [recent mpv build][recent-mpv] if you run into any playback issues.
 
 You are free to re-use any part of our release, provided you are not redistributing for the purpose of monetary gain.
 Credit for our work is greatly appreciated, but not required.
@@ -70,3 +70,4 @@ you can ask us to render out our song styling for you in our [Discord server][di
 [//]: <> (Other)
 [discord]: https://discord.com/servers/stalleido-subs-443264565069742080
 [mpv]: https://mpv.io/
+[recent-mpv]: https://github.com/zhongfly/mpv-winbuild/releases
